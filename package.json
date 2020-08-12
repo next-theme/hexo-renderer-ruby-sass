@@ -4,7 +4,7 @@
   "description": "Sass renderer plugin for Hexo.",
   "main": "index.js",
   "scripts": {
-    "test": "eslint ."
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
