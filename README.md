@@ -24,6 +24,7 @@ node_sass:
   debug: false
   outputStyle: nested
   sourceComments: false
+  sourceMapEmbed: false
 ```
 
 ## Usage
