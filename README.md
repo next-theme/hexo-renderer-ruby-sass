@@ -20,7 +20,7 @@ $ npm install hexo-renderer-ruby-sass
 You can configure this plugin in Hexo `_config.yml`. Default options:
 
 ```yaml
-node_sass:
+sass:
   debug: false
   outputStyle: nested
   sourceComments: false

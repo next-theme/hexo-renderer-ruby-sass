@@ -6,10 +6,7 @@
   "scripts": {
     "lint": "eslint ."
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/next-theme/hexo-renderer-ruby-sass.git"
-  },
+  "repository": "next-theme/hexo-renderer-ruby-sass",
   "keywords": [
     "hexo",
     "plugins",
@@ -28,8 +25,8 @@
   },
   "homepage": "https://github.com/next-theme/hexo-renderer-ruby-sass",
   "dependencies": {
-    "node-sass": "4.14.1",
-    "node-sass-magic-importer": "5.3.2"
+    "node-sass-magic-importer": "5.3.2",
+    "sass": "1.29.0"
   },
   "devDependencies": {
     "@next-theme/eslint-config": "0.0.1",
