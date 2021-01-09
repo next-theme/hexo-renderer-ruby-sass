@@ -30,7 +30,7 @@
     "sass": "1.29.0"
   },
   "devDependencies": {
-    "@next-theme/eslint-config": "0.0.1",
+    "@next-theme/eslint-config": "0.0.2",
     "eslint": "7.14.0"
   }
 }
