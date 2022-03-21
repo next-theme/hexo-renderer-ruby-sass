@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/next-theme/hexo-renderer-ruby-sass",
   "dependencies": {
-    "color-rgba": "2.2.3",
+    "color-rgba": "2.4.0",
     "node-sass-magic-importer": "5.3.2",
     "sass": "1.49.9"
   },
