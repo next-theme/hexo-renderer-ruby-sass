@@ -27,7 +27,7 @@
   "dependencies": {
     "color-rgba": "2.4.0",
     "node-sass-magic-importer": "5.3.2",
-    "sass": "1.56.1"
+    "sass": "1.56.2"
   },
   "devDependencies": {
     "@next-theme/eslint-config": "0.0.3",
